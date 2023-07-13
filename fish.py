@@ -1,0 +1,3 @@
+from ramdomfishname import ramdom_fish_name
+random_fish_name=get_random_fish_name()
+print(ramdom_fish_name)
